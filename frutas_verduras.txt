@@ -1,0 +1,14 @@
+manzana
+pera
+piña
+aguacate
+tomate
+banano
+naranja
+mandarina
+lechuga
+papaya
+ciruela
+uva
+apio
+zanahoria
